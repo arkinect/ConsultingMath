@@ -1,6 +1,6 @@
 # ConsultingMath
 A friend asked for a free alternative to online math sites used to practice math for mangement consulting interviews.
-_this was at one point named cloneConsultingMath because I somehow screwed up committing to github from VS Code
+_this was at one point named cloneConsultingMath because I somehow screwed up committing to github from VS Code_
 
 ## Use (?)
 
