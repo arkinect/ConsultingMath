@@ -1,0 +1,3 @@
+Somehow I screwed up pushing to github with vscode, so the easiest thing to do was to start over.
+
+This file is a first test to make sure I can push properly
