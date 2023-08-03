@@ -107,7 +107,7 @@ def mainPage(): # frame 0
         relief=defaultButton.relief,
         font=defaultButton.font,
         text="Exit",
-        command=lambda: print(scoreBoard.get_score_dict())# exit()
+        command=lambda: resultsPage()# exit()
     ).place(
         x=908,
         y=30,
@@ -337,6 +337,29 @@ def resultsPage():
         fill="#FFFFFF",
         font=FONT_TITLE
     )
+    
+    firstResultLocation = {"x":107, "y":300}
+    for questionType in QUESTIONNAMES:
+        canvas.create_text(
+            firstResultLocation["x"],
+            firstResultLocation["y"] + 50 * questionType,
+            anchor="nw",
+            text=QUESTIONNAMES[questionType],
+            fill="#8C8C8C",
+            font=FONT_BODY
+        )
+    print(scoreBoard.get_score_dict())
+    for questionType in QUESTIONNAMES:
+        canvas.create_text(
+            firstResultLocation["x"]+500,
+            firstResultLocation["y"] + 50 * questionType,
+            anchor="nw",
+            text=f"{scoreBoard.get_score_dict()[questionType][1]}/{scoreBoard.get_score_dict()[questionType][0]}",
+            fill="#8C8C8C",
+            font=FONT_BODY
+        )
+
+    
 
 
 if __name__ == "__main__":

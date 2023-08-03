@@ -44,7 +44,7 @@ def breakEvenProblem(*inputs):
         breakCosts = random.randint(0,int(breakCosts/2))
     inputCosts.append(unitCost)
 
-    question = f"Widgets sell for ${unitSellingPrice}\n,All input costs of widgets ($) are: {inputCosts},\nThe fixed costs of producing widgets are ${fixedCosts}"
+    question = f"Widgets sell for ${unitSellingPrice},\nAll input costs of widgets ($) are: {inputCosts},\nThe fixed costs of producing widgets are ${fixedCosts}.\nWhat is the break even point?"
     return question, breakEvenPoint
 
     print("Widgets sell for $", unitSellingPrice)
@@ -118,7 +118,7 @@ def netPresentValue(*inputs):
     npv = profit / (grDr/100)
     growthRate = grDr + DISCOUNTRATE
 
-    question = f"GrowthRate is {growthRate}%, profit is ${profit}, Discount Rate is ${DISCOUNTRATE}"
+    question = f"GrowthRate is {growthRate}%, profit is ${profit}, Discount Rate is ${DISCOUNTRATE}.\nCalculate the NPV."
     return question, npv
 
     print(f"GrowthRate is {growthRate}%, profit is ${profit}, Discount Rate is ${DISCOUNTRATE}")
@@ -154,7 +154,6 @@ def calcROI(*inputs):
     investment=random.randrange(100,1000,10)
     roi=(revenue-cost)/investment
 
-    
     phrase=f"If revenue is {revenue} and costs is {cost} and investment is {investment}, than what is the ROI?"
     question=phrase
     answer=roi
