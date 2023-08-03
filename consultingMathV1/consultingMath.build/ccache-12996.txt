@@ -1,0 +1,397 @@
+[2023-07-14T13:59:45.149011 2672 ] === CCACHE 4.6 STARTED =========================================
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) absolute_paths_in_stderr = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) base_dir = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (environment) cache_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) compiler = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) compiler_check = mtime
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) compiler_type = auto
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) compression = true
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) compression_level = 0
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) cpp_extension = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) debug = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) debug_dir = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) depend_mode = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) direct_mode = true
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) disable = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) extra_files_to_hash = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) file_clone = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) hard_link = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) hash_dir = true
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) ignore_headers_in_manifest = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) ignore_options = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) inode_cache = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) keep_comments_cpp = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) limit_multiple = 0.8
+[2023-07-14T13:59:45.149011 2672 ] Config: (environment) log_file = D:\Documents\Code\Python\Consulting Math\consultingMath.build\ccache-12996.txt
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) max_files = 0
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) max_size = 5.0G
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) namespace = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) path = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) pch_external_checksum = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) prefix_command = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) prefix_command_cpp = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) read_only = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) read_only_direct = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) recache = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) reshare = false
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) run_second_cpp = true
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) secondary_storage = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) stats = true
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) stats_log = 
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) temporary_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-07-14T13:59:45.149011 2672 ] Config: (default) umask = 
+[2023-07-14T13:59:45.149011 2672 ] Command line: C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -ID:\ProgramFiles\Anaconda\envs\consultingMath\include -I. -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\include -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\static_src __constants.c
+[2023-07-14T13:59:45.153001 12736] === CCACHE 4.6 STARTED =========================================
+[2023-07-14T13:59:45.153001 12736] Config: (default) absolute_paths_in_stderr = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) base_dir = 
+[2023-07-14T13:59:45.153001 12736] Config: (environment) cache_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-07-14T13:59:45.153001 12736] Config: (default) compiler = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) compiler_check = mtime
+[2023-07-14T13:59:45.153001 12736] Config: (default) compiler_type = auto
+[2023-07-14T13:59:45.153001 12736] Config: (default) compression = true
+[2023-07-14T13:59:45.153001 12736] Config: (default) compression_level = 0
+[2023-07-14T13:59:45.153001 12736] Config: (default) cpp_extension = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) debug = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) debug_dir = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) depend_mode = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) direct_mode = true
+[2023-07-14T13:59:45.153001 12736] Config: (default) disable = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) extra_files_to_hash = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) file_clone = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) hard_link = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) hash_dir = true
+[2023-07-14T13:59:45.153001 12736] Config: (default) ignore_headers_in_manifest = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) ignore_options = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) inode_cache = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) keep_comments_cpp = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) limit_multiple = 0.8
+[2023-07-14T13:59:45.153001 12736] Config: (environment) log_file = D:\Documents\Code\Python\Consulting Math\consultingMath.build\ccache-12996.txt
+[2023-07-14T13:59:45.153001 12736] Config: (default) max_files = 0
+[2023-07-14T13:59:45.153001 12736] Config: (default) max_size = 5.0G
+[2023-07-14T13:59:45.153001 12736] Config: (default) namespace = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) path = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) pch_external_checksum = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) prefix_command = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) prefix_command_cpp = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) read_only = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) read_only_direct = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) recache = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) reshare = false
+[2023-07-14T13:59:45.153001 12736] Config: (default) run_second_cpp = true
+[2023-07-14T13:59:45.153001 12736] Config: (default) secondary_storage = 
+[2023-07-14T13:59:45.153001 12736] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-07-14T13:59:45.153001 12736] Config: (default) stats = true
+[2023-07-14T13:59:45.153001 12736] Config: (default) stats_log = 
+[2023-07-14T13:59:45.153001 12736] Config: (default) temporary_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-07-14T13:59:45.153001 12736] Config: (default) umask = 
+[2023-07-14T13:59:45.153998 12736] Command line: C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -ID:\ProgramFiles\Anaconda\envs\consultingMath\include -I. -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\include -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\static_src __loader.c
+[2023-07-14T13:59:45.158985 14604] === CCACHE 4.6 STARTED =========================================
+[2023-07-14T13:59:45.158985 14604] Config: (default) absolute_paths_in_stderr = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) base_dir = 
+[2023-07-14T13:59:45.158985 14604] Config: (environment) cache_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-07-14T13:59:45.158985 14604] Config: (default) compiler = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) compiler_check = mtime
+[2023-07-14T13:59:45.158985 14604] Config: (default) compiler_type = auto
+[2023-07-14T13:59:45.158985 14604] Config: (default) compression = true
+[2023-07-14T13:59:45.158985 14604] Config: (default) compression_level = 0
+[2023-07-14T13:59:45.158985 14604] Config: (default) cpp_extension = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) debug = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) debug_dir = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) depend_mode = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) direct_mode = true
+[2023-07-14T13:59:45.158985 14604] Config: (default) disable = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) extra_files_to_hash = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) file_clone = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) hard_link = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) hash_dir = true
+[2023-07-14T13:59:45.158985 14604] Config: (default) ignore_headers_in_manifest = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) ignore_options = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) inode_cache = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) keep_comments_cpp = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) limit_multiple = 0.8
+[2023-07-14T13:59:45.158985 14604] Config: (environment) log_file = D:\Documents\Code\Python\Consulting Math\consultingMath.build\ccache-12996.txt
+[2023-07-14T13:59:45.158985 14604] Config: (default) max_files = 0
+[2023-07-14T13:59:45.158985 14604] Config: (default) max_size = 5.0G
+[2023-07-14T13:59:45.158985 14604] Config: (default) namespace = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) path = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) pch_external_checksum = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) prefix_command = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) prefix_command_cpp = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) read_only = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) read_only_direct = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) recache = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) reshare = false
+[2023-07-14T13:59:45.158985 14604] Config: (default) run_second_cpp = true
+[2023-07-14T13:59:45.158985 14604] Config: (default) secondary_storage = 
+[2023-07-14T13:59:45.158985 14604] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-07-14T13:59:45.158985 14604] Config: (default) stats = true
+[2023-07-14T13:59:45.158985 14604] Config: (default) stats_log = 
+[2023-07-14T13:59:45.158985 14604] Config: (default) temporary_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-07-14T13:59:45.158985 14604] Config: (default) umask = 
+[2023-07-14T13:59:45.158985 14604] Command line: C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -ID:\ProgramFiles\Anaconda\envs\consultingMath\include -I. -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\include -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\static_src module.__main__.c
+[2023-07-14T13:59:45.166963 18668] Hostname: DESKTOP-N2VBMSE
+[2023-07-14T13:59:45.166963 2672 ] Hostname: DESKTOP-N2VBMSE
+ents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.166963 2672 ] Working directory: D:/Documents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.166963 2672 ] Compiler type: gcc
+[2023-07-14T13:59:45.166963 18668] Source file: __helpers.c
+
+[2023-07-14T13:59:45.166963 18668] Object file: __helpers.o
+
+[2023-07-14T13:59:45.166963 18668] Trying direct lookup
+[2023-07-14T13:59:45.166963 18668] No bae2bg6kb2q7lmlu6u4f8c3qgsnq14i2u in primary storage
+[2023-07-14T13:59:45.166963 2672 ] No 9d0464jil9rbror42o8roje6risknd14q in primary storage
+[2023-07-14T13:59:45.168957 12736] Hostname: DESKTOP-N2VBMSE
+[2023-07-14T13:59:45.168957 12736] Working directory: D:/Documents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.168957 12736] Compiler type: gcc
+[2023-07-14T13:59:45.168957 12736] Source file: __loader.c
+[2023-07-14T13:59:45.168957 12736] Object file: __loader.o
+[2023-07-14T13:59:45.168957 12736] Trying direct lookup
+[2023-07-14T13:59:45.168957 18668] Running preprocessor
+[2023-07-14T13:59:45.168957 12736] No 60ffbiolrc0krjhgdepa1oi4k6b5n0ac6 in primary storage
+[2023-07-14T13:59:45.170953 12736] Running preprocessor
+[2023-07-14T13:59:45.174943 14604] Hostname: DESKTOP-N2VBMSE
+[2023-07-14T13:59:45.174943 14604] Working directory: D:/Documents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.174943 14604] Compiler type: gcc
+[2023-07-14T13:59:45.174943 14604] Source file: module.__main__.c
+[2023-07-14T13:59:45.174943 14604] Object file: module.__main__.o
+[2023-07-14T13:59:45.174943 14604] Trying direct lookup
+[2023-07-14T13:59:45.175938 14604] No 0cbcf3eujpfrbmhqpknque21ddban784q in primary storage
+[2023-07-14T13:59:45.176935 14604] Running preprocessor
+[2023-07-14T13:59:45.189902 18272] === CCACHE 4.6 STARTED =========================================
+[2023-07-14T13:59:45.189902 18272] Config: (default) absolute_paths_in_stderr = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) base_dir = 
+[2023-07-14T13:59:45.189902 18272] Config: (environment) cache_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-07-14T13:59:45.189902 18272] Config: (default) compiler = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) compiler_check = mtime
+[2023-07-14T13:59:45.189902 18272] Config: (default) compiler_type = auto
+[2023-07-14T13:59:45.189902 18272] Config: (default) compression = true
+[2023-07-14T13:59:45.189902 18272] Config: (default) compression_level = 0
+[2023-07-14T13:59:45.189902 18272] Config: (default) cpp_extension = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) debug = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) debug_dir = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) depend_mode = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) direct_mode = true
+[2023-07-14T13:59:45.189902 18272] Config: (default) disable = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) extra_files_to_hash = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) file_clone = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) hard_link = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) hash_dir = true
+[2023-07-14T13:59:45.189902 18272] Config: (default) ignore_headers_in_manifest = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) ignore_options = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) inode_cache = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) keep_comments_cpp = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) limit_multiple = 0.8
+[2023-07-14T13:59:45.189902 18272] Config: (environment) log_file = D:\Documents\Code\Python\Consulting Math\consultingMath.build\ccache-12996.txt
+[2023-07-14T13:59:45.189902 18272] Config: (default) max_files = 0
+[2023-07-14T13:59:45.189902 18272] Config: (default) max_size = 5.0G
+[2023-07-14T13:59:45.189902 18272] Config: (default) namespace = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) path = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) pch_external_checksum = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) prefix_command = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) prefix_command_cpp = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) read_only = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) read_only_direct = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) recache = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) reshare = false
+[2023-07-14T13:59:45.189902 18272] Config: (default) run_second_cpp = true
+[2023-07-14T13:59:45.189902 18272] Config: (default) secondary_storage = 
+[2023-07-14T13:59:45.189902 18272] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-07-14T13:59:45.189902 18272] Config: (default) stats = true
+[2023-07-14T13:59:45.189902 18272] Config: (default) stats_log = 
+[2023-07-14T13:59:45.189902 18272] Config: (default) temporary_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-07-14T13:59:45.189902 18272] Config: (default) umask = 
+[2023-07-14T13:59:45.189902 18272] Command line: C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -ID:\ProgramFiles\Anaconda\envs\consultingMath\include -I. -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\include -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\static_src static_src\MainProgram.c
+[2023-07-14T13:59:45.194916 18272] Hostname: DESKTOP-N2VBMSE
+[2023-07-14T13:59:45.194916 18272] Working directory: D:/Documents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.194916 18272] Compiler type: gcc
+[2023-07-14T13:59:45.194916 18272] Source file: static_src\MainProgram.c
+[2023-07-14T13:59:45.194916 18272] Object file: static_src\MainProgram.o
+[2023-07-14T13:59:45.194916 18272] Trying direct lookup
+[2023-07-14T13:59:45.195913 18272] No 3e7d0317qiikn5ipn9apcjv06mu29ff06 in primary storage
+[2023-07-14T13:59:45.196910 18272] Running preprocessor
+[2023-07-14T13:59:45.236776 15788] === CCACHE 4.6 STARTED =========================================
+[2023-07-14T13:59:45.236776 15788] Config: (default) absolute_paths_in_stderr = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) base_dir = 
+[2023-07-14T13:59:45.236776 15788] Config: (environment) cache_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-07-14T13:59:45.236776 15788] Config: (default) compiler = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) compiler_check = mtime
+[2023-07-14T13:59:45.236776 15788] Config: (default) compiler_type = auto
+[2023-07-14T13:59:45.236776 15788] Config: (default) compression = true
+[2023-07-14T13:59:45.236776 15788] Config: (default) compression_level = 0
+[2023-07-14T13:59:45.236776 15788] Config: (default) cpp_extension = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) debug = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) debug_dir = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) depend_mode = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) direct_mode = true
+[2023-07-14T13:59:45.236776 15788] Config: (default) disable = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) extra_files_to_hash = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) file_clone = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) hard_link = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) hash_dir = true
+[2023-07-14T13:59:45.236776 15788] Config: (default) ignore_headers_in_manifest = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) ignore_options = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) inode_cache = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) keep_comments_cpp = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) limit_multiple = 0.8
+[2023-07-14T13:59:45.236776 15788] Config: (environment) log_file = D:\Documents\Code\Python\Consulting Math\consultingMath.build\ccache-12996.txt
+[2023-07-14T13:59:45.236776 15788] Config: (default) max_files = 0
+[2023-07-14T13:59:45.236776 15788] Config: (default) max_size = 5.0G
+[2023-07-14T13:59:45.236776 15788] Config: (default) namespace = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) path = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) pch_external_checksum = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) prefix_command = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) prefix_command_cpp = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) read_only = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) read_only_direct = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) recache = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) reshare = false
+[2023-07-14T13:59:45.236776 15788] Config: (default) run_second_cpp = true
+[2023-07-14T13:59:45.236776 15788] Config: (default) secondary_storage = 
+[2023-07-14T13:59:45.236776 15788] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-07-14T13:59:45.236776 15788] Config: (default) stats = true
+[2023-07-14T13:59:45.236776 15788] Config: (default) stats_log = 
+[2023-07-14T13:59:45.236776 15788] Config: (default) temporary_dir = C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-07-14T13:59:45.236776 15788] Config: (default) umask = 
+[2023-07-14T13:59:45.237802 15788] Command line: C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -ID:\ProgramFiles\Anaconda\envs\consultingMath\include -I. -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\include -ID:\ProgramFiles\Anaconda\envs\consultingMath\lib\site-packages\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-07-14T13:59:45.241762 15788] Hostname: DESKTOP-N2VBMSE
+[2023-07-14T13:59:45.241762 15788] Working directory: D:/Documents/Code/Python/Consulting Math/consultingMath.build
+[2023-07-14T13:59:45.242786 15788] Compiler type: gcc
+[2023-07-14T13:59:45.242786 15788] Source file: static_src\CompiledFunctionType.c
+[2023-07-14T13:59:45.242786 15788] Object file: static_src\CompiledFunctionType.o
+[2023-07-14T13:59:45.242786 15788] Trying direct lookup
+[2023-07-14T13:59:45.242786 15788] No aaf6pc7nb2tmr2bahf6osm6ip3aeq8tro in primary storage
+[2023-07-14T13:59:45.243757 15788] Running preprocessor
+[2023-07-14T13:59:45.452513 12736] Got result key from preprocessor
+[2023-07-14T13:59:45.453512 12736] No fa536mvqrbvc69mdtsq0ljvsv3erhq1m4 in primary storage
+[2023-07-14T13:59:45.453512 12736] Running real compiler
+[2023-07-14T13:59:45.597127 12736] Using default compression level 1
+[2023-07-14T13:59:45.597127 12736] Storing embedded entry #0 .o (22409 bytes) from __loader.o
+[2023-07-14T13:59:45.598123 12736] Stored fa536mvqrbvc69mdtsq0ljvsv3erhq1m4 in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/a/536mvqrbvc69mdtsq0ljvsv3erhq1m4R)
+[2023-07-14T13:59:45.598123 12736] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/ffbiolrc0krjhgdepa1oi4k6b5n0ac6M
+[2023-07-14T13:59:45.607101 12736] Using default compression level 1
+[2023-07-14T13:59:45.607101 12736] Stored 60ffbiolrc0krjhgdepa1oi4k6b5n0ac6 in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/ffbiolrc0krjhgdepa1oi4k6b5n0ac6M)
+[2023-07-14T13:59:45.608099 12736] Result: cache_miss
+[2023-07-14T13:59:45.608099 12736] Result: direct_cache_miss
+[2023-07-14T13:59:45.608099 12736] Result: preprocessed_cache_miss
+[2023-07-14T13:59:45.608099 12736] Result: primary_storage_miss
+[2023-07-14T13:59:45.608099 12736] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-07-14T13:59:45.609096 12736] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-07-14T13:59:45.609096 12736] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-07-14T13:59:45.609096 12736] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-07-14T13:59:45.610093 12736] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.S7S88d
+[2023-07-14T13:59:45.610093 12736] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.A4jJlW
+[2023-07-14T13:59:45.610093 12736] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.7VmDjv
+[2023-07-14T13:59:45.610093 12736] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RtOOkE.i
+[2023-07-14T13:59:45.610093 12736] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.RtOOkE
+[2023-07-14T13:59:46.161617 2672 ] Got result key from preprocessor
+[2023-07-14T13:59:46.161617 2672 ] No a62csquqbge2vcfgcrc92rborol6po8vq in primary storage
+[2023-07-14T13:59:46.161617 2672 ] Running real compiler
+[2023-07-14T13:59:46.177575 18668] Got result key from preprocessor
+[2023-07-14T13:59:46.178572 18668] No c4b0rc8j0r6qhg7374cegjk35objrmht4 in primary storage
+[2023-07-14T13:59:46.178572 18668] Running real compiler
+[2023-07-14T13:59:46.184556 18272] Got result key from preprocessor
+[2023-07-14T13:59:46.184556 18272] No d879ji2bmo0k67mbt0geoglusrvl328ge in primary storage
+[2023-07-14T13:59:46.184556 18272] Running real compiler
+[2023-07-14T13:59:46.194529 14604] Got result key from preprocessor
+[2023-07-14T13:59:46.194529 14604] No f590u3jh0d0v5ktkkcnlgvd2bqoiojseg in primary storage
+[2023-07-14T13:59:46.194529 14604] Running real compiler
+[2023-07-14T13:59:47.049246 2672 ] Using default compression level 1
+[2023-07-14T13:59:47.050242 2672 ] Storing embedded entry #0 .o (2900 bytes) from __constants.o
+[2023-07-14T13:59:47.050242 2672 ] Stored a62csquqbge2vcfgcrc92rborol6po8vq in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/6/2csquqbge2vcfgcrc92rborol6po8vqR)
+[2023-07-14T13:59:47.051239 2672 ] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/d/0464jil9rbror42o8roje6risknd14qM
+[2023-07-14T13:59:47.071186 18668] Using default compression level 1
+[2023-07-14T13:59:47.071186 18668] Storing embedded entry #0 .o (466 bytes) from __helpers.o
+[2023-07-14T13:59:47.072183 18668] Stored c4b0rc8j0r6qhg7374cegjk35objrmht4 in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/b0rc8j0r6qhg7374cegjk35objrmht4R)
+[2023-07-14T13:59:47.073181 18668] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/a/e2bg6kb2q7lmlu6u4f8c3qgsnq14i2uM
+[2023-07-14T13:59:47.075175 2672 ] Using default compression level 1
+[2023-07-14T13:59:47.077170 2672 ] Stored 9d0464jil9rbror42o8roje6risknd14q in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/d/0464jil9rbror42o8roje6risknd14qM)
+[2023-07-14T13:59:47.077170 2672 ] Result: cache_miss
+[2023-07-14T13:59:47.077170 2672 ] Result: direct_cache_miss
+[2023-07-14T13:59:47.077170 2672 ] Result: preprocessed_cache_miss
+[2023-07-14T13:59:47.077170 2672 ] Result: primary_storage_miss
+[2023-07-14T13:59:47.078167 2672 ] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2023-07-14T13:59:47.078167 2672 ] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2023-07-14T13:59:47.078167 2672 ] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-07-14T13:59:47.079165 2672 ] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-07-14T13:59:47.079165 2672 ] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.MWktKw
+[2023-07-14T13:59:47.079165 2672 ] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.JM8Yca
+[2023-07-14T13:59:47.079165 2672 ] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.u1KkYc
+[2023-07-14T13:59:47.080162 2672 ] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.mHi2MY.i
+[2023-07-14T13:59:47.080162 2672 ] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.mHi2MY
+[2023-07-14T13:59:47.091133 15788] Got result key from preprocessor
+[2023-07-14T13:59:47.091133 15788] No 595fs65ei6fiklt4rq8pd5k3l439b4fie in primary storage
+[2023-07-14T13:59:47.091133 15788] Running real compiler
+[2023-07-14T13:59:47.097118 18668] Using default compression level 1
+[2023-07-14T13:59:47.099113 18668] Stored bae2bg6kb2q7lmlu6u4f8c3qgsnq14i2u in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/a/e2bg6kb2q7lmlu6u4f8c3qgsnq14i2uM)
+[2023-07-14T13:59:47.099113 18668] Result: cache_miss
+[2023-07-14T13:59:47.099113 18668] Result: direct_cache_miss
+[2023-07-14T13:59:47.099113 18668] Result: preprocessed_cache_miss
+[2023-07-14T13:59:47.099113 18668] Result: primary_storage_miss
+[2023-07-14T13:59:47.100110 18668] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-07-14T13:59:47.100110 18668] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-07-14T13:59:47.101107 18668] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-07-14T13:59:47.101107 18668] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-07-14T13:59:47.101107 18668] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.K2CuGk
+[2023-07-14T13:59:47.102104 18668] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.yqzTLN
+[2023-07-14T13:59:47.102104 18668] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.R433LA
+[2023-07-14T13:59:47.102104 18668] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.djWPSW.i
+[2023-07-14T13:59:47.103102 18668] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.djWPSW
+[2023-07-14T13:59:47.119058 18272] Using default compression level 1
+[2023-07-14T13:59:47.120056 18272] Storing embedded entry #0 .o (8732 bytes) from static_src\MainProgram.o
+[2023-07-14T13:59:47.121053 18272] Stored d879ji2bmo0k67mbt0geoglusrvl328ge in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/8/79ji2bmo0k67mbt0geoglusrvl328geR)
+[2023-07-14T13:59:47.121053 18272] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/7d0317qiikn5ipn9apcjv06mu29ff06M
+[2023-07-14T13:59:47.142994 18272] Using default compression level 1
+[2023-07-14T13:59:47.143991 18272] Stored 3e7d0317qiikn5ipn9apcjv06mu29ff06 in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/7d0317qiikn5ipn9apcjv06mu29ff06M)
+[2023-07-14T13:59:47.144989 18272] Result: cache_miss
+[2023-07-14T13:59:47.144989 18272] Result: direct_cache_miss
+[2023-07-14T13:59:47.144989 18272] Result: preprocessed_cache_miss
+[2023-07-14T13:59:47.144989 18272] Result: primary_storage_miss
+[2023-07-14T13:59:47.144989 18272] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-07-14T13:59:47.145986 18272] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2023-07-14T13:59:47.145986 18272] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-07-14T13:59:47.145986 18272] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-07-14T13:59:47.146983 18272] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.dagQDG
+[2023-07-14T13:59:47.146983 18272] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.lkYC8Y
+[2023-07-14T13:59:47.146983 18272] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.84jDgH
+[2023-07-14T13:59:47.146983 18272] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.dmPLjY.i
+[2023-07-14T13:59:47.147982 18272] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.dmPLjY
+[2023-07-14T13:59:47.928917 14604] Using default compression level 1
+[2023-07-14T13:59:47.928917 14604] Storing embedded entry #0 .o (60175 bytes) from module.__main__.o
+[2023-07-14T13:59:47.929891 14604] Stored f590u3jh0d0v5ktkkcnlgvd2bqoiojseg in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/5/90u3jh0d0v5ktkkcnlgvd2bqoiojsegR)
+[2023-07-14T13:59:47.930911 14604] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/bcf3eujpfrbmhqpknque21ddban784qM
+[2023-07-14T13:59:47.951855 14604] Using default compression level 1
+[2023-07-14T13:59:47.952831 14604] Stored 0cbcf3eujpfrbmhqpknque21ddban784q in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/bcf3eujpfrbmhqpknque21ddban784qM)
+[2023-07-14T13:59:47.953844 14604] Result: cache_miss
+[2023-07-14T13:59:47.953844 14604] Result: direct_cache_miss
+[2023-07-14T13:59:47.953844 14604] Result: preprocessed_cache_miss
+[2023-07-14T13:59:47.953844 14604] Result: primary_storage_miss
+[2023-07-14T13:59:47.953844 14604] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-07-14T13:59:47.953844 14604] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-07-14T13:59:47.954855 14604] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-07-14T13:59:47.955845 14604] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-07-14T13:59:47.955845 14604] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.JTQtod
+[2023-07-14T13:59:47.956847 14604] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.eOxhhC
+[2023-07-14T13:59:47.956847 14604] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.RHpTDT
+[2023-07-14T13:59:47.956847 14604] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.6VTUWY.i
+[2023-07-14T13:59:47.956847 14604] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.6VTUWY
+[2023-07-14T14:00:02.640199 15788] Using default compression level 1
+[2023-07-14T14:00:02.640199 15788] Storing embedded entry #0 .o (890444 bytes) from static_src\CompiledFunctionType.o
+[2023-07-14T14:00:02.644160 15788] Stored 595fs65ei6fiklt4rq8pd5k3l439b4fie in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/9/5fs65ei6fiklt4rq8pd5k3l439b4fieR)
+[2023-07-14T14:00:02.645157 15788] Adding result key to C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/a/f6pc7nb2tmr2bahf6osm6ip3aeq8troM
+[2023-07-14T14:00:02.670090 15788] Using default compression level 1
+[2023-07-14T14:00:02.671088 15788] Stored aaf6pc7nb2tmr2bahf6osm6ip3aeq8tro in primary storage (C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/a/f6pc7nb2tmr2bahf6osm6ip3aeq8troM)
+[2023-07-14T14:00:02.671088 15788] Result: cache_miss
+[2023-07-14T14:00:02.671088 15788] Result: direct_cache_miss
+[2023-07-14T14:00:02.671088 15788] Result: preprocessed_cache_miss
+[2023-07-14T14:00:02.671088 15788] Result: primary_storage_miss
+[2023-07-14T14:00:02.671088 15788] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-07-14T14:00:02.673082 15788] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-07-14T14:00:02.673082 15788] Acquired lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-07-14T14:00:02.674080 15788] Releasing lock C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-07-14T14:00:02.674080 15788] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.u4ck7N
+[2023-07-14T14:00:02.674080 15788] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.XCalpy
+[2023-07-14T14:00:02.674080 15788] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.7GAZP6
+[2023-07-14T14:00:02.674080 15788] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nGFdib.i
+[2023-07-14T14:00:02.675077 15788] Unlink C:\Users\Mathew\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nGFdib
